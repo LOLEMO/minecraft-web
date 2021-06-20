@@ -1,14 +1,6 @@
-# WebMc
+# Minecraft web
 
-[![Discord](https://img.shields.io/badge/chat-on%20discord-brightgreen.svg)](https://discord.gg/h6DQzDx2G7)
-[![Try it on gitpod](https://img.shields.io/badge/try-on%20gitpod-brightgreen.svg)](https://gitpod.io/#https://github.com/michaljaz/web-minecraft)
-[![Build and Deploy](https://github.com/michaljaz/web-minecraft/actions/workflows/github-pages.yaml/badge.svg)](https://github.com/michaljaz/web-minecraft/actions/workflows/github-pages.yaml)
-## About
-
-**WebMc is minecraft client written in Javascript.** From web browser this client connects to websocket proxy and then to real minecraft server, so you can play minecraft in the browser.
-
-## Demo
-Live demo with no installation: https://minecraft.js.org.
+Minecraft web es un cliente de Minecraft escrito en Javascript. Desde el navegador web, este cliente se conecta al proxy websocket y luego al servidor real de Minecraft, para que pueda jugar Minecraft en el navegador.
 
 ## Development setup
 
@@ -22,7 +14,7 @@ This will start express and webpack in development mode: whenever you save a fil
 Connect to http://localhost:8080 in your browser. Also specify correct server ip in url param.
 
 
-## Screenshots
+## Capturas de pantalla
 ![hypixel](https://i.ibb.co/bPh99MV/hypixel.png "hypixel")
 ![nether](https://i.ibb.co/jzZVrT2/Screenshot-from-2021-01-27-21-13-37.png "nether")
 ![end](https://i.ibb.co/tKmnJ8D/Screenshot-from-2021-01-27-21-16-12.png "end")
